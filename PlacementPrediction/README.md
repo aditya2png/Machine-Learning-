@@ -17,4 +17,4 @@ Accuracy results
 
 User input prediction (IQ, CGPA → Placed/Not Placed)
 
-<img width="117" height="20" alt="image" src="https://colab.research.google.com/drive/1qb9Hwm3YaemDOh7OFfkL8U137_1v7PJK?usp=sharing" />
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qb9Hwm3YaemDOh7OFfkL8U137_1v7PJK?usp=sharing)
